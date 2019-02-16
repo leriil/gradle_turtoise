@@ -6,5 +6,5 @@ import lombok.Data;
 public class Dog {
 
 	private String color;
-	private int speed=10;
+	private int speed=15;
 }

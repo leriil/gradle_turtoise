@@ -6,5 +6,6 @@ import lombok.Data;
 public class Cat {
 
 	private int size = 30;
+	private String color;
 
 }
